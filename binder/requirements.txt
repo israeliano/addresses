@@ -1,0 +1,5 @@
+geckodriver-autoinstaller
+
+selenium
+
+pandas
